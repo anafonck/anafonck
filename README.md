@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer student from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubdaana&label=Profile%20views&color=0e75b6&style=flat" alt="githubdaana" /> </p>
-<img align="right" alt="Cat-Coding" width="500" heigth"300" src="https://raw.githubusercontent.com/dongls/dongls/master/coding.gif">
+<img align="right" alt="Cat-Coding" width="300" heigth"200" src="https://raw.githubusercontent.com/dongls/dongls/master/coding.gif">
 
 - 📖 I’m currently learning **Rest API and React**
 
